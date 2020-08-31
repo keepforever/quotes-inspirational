@@ -1,6 +1,6 @@
 const fs = require('fs');
 const ss = require('simple-statistics');
-const quotesData = require('./mtgadata/quotes.json');
+const quotesData = require('./data/quotes.json');
 
 let popularityArray = [];
 let writePayload = [];
