@@ -1,0 +1,14 @@
+{
+  "name": "quotes-processing",
+  "version": "1.0.0",
+  "description": "Video: https://youtu.be/aIo06p5G1WQ Repo: https://github.com/andreliverod/MTGA-Card-Data-Explorer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "simple-statistics": "^7.2.0"
+  }
+}
